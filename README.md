@@ -15,7 +15,7 @@ Ayudante:	Karen Monserrat Zavala Correa
 
 
 
-Equipo: 🖥️ 🖱️
+# Equipo: 🖥️ 🖱️
 
 Álvarez Galván Ricardo Josué
 ricardo.alvarez@ciencias.unam.mx
